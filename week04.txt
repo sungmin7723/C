@@ -4,3 +4,5 @@ linux 명령어 기초 복습
 기초 깃 명령어
 fetch
 pull
+5wnckdjwWjrnwjWjrn
+complete
